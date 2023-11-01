@@ -1,0 +1,8 @@
+Missing Step: User Modification
+Description: User modification refers to the process of making changes to a user's access rights and permissions after the initial provisioning. 
+This step is essential because user roles and access requirements may change over time due to various factors such as job role changes, project assignments, or changes in security policies.
+Actions:
+Define a clear process for requesting and approving changes to user access rights.
+Implement procedures for modifying user accounts, roles, and permissions based on approved requests.
+Ensure that user modification requests are subject to proper authorization and validation.
+Maintain an audit trail of user access changes for compliance and security monitoring.
